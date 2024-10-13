@@ -1,0 +1,10 @@
+.App {
+  flex-direction: column;
+}
+.container {
+  background-color: aqua;
+  text-align: center;
+  border-color: rgb(232, 55, 197);
+  background-image: url("./ias-generadoras-de-imagenes.jpg");
+}
+
