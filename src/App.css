@@ -2,7 +2,7 @@
   flex-direction: column;
 }
 .container {
-  background-color: aqua;
+  background-color: rgb(91, 115, 4);
   text-align: center;
   border-color: rgb(232, 55, 197);
   background-image: url("./ias-generadoras-de-imagenes.jpg");
